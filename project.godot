@@ -1,0 +1,3 @@
+[application]
+config/name="amanda-the-adventure-4"
+run/main_scene="res://Main.tscn"
